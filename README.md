@@ -10,10 +10,10 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于ssm+vue的民宿预订管理系统(源代码+数据库)627
+## 基于Springboot/ssm+vue的民宿预订管理系统(源代码+数据库)627
 
 ## 一、系统介绍
-本系统前后端分离
+本系统前后端分离(本项目有springboot和ssm两种版本)
 
 本系统分为管理员、用户两种角色
 
@@ -26,7 +26,7 @@
 ## 二、所用技术
 
 后端技术栈：
-
+- Springboot
 - ssm
 - mybatisPlus
 - mysql
